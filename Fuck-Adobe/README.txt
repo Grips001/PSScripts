@@ -8,4 +8,4 @@ Replace "insertpathhere" with the path to where ever you save the folder.
 
 Double-click the shortcut.
 
-(The reason for this is the scritp must be run in an elevated powershell session due to Adobe being a load of cucks)
+(The reason for this is the script must be run in an elevated powershell session due to Adobe being a load of cucks)
