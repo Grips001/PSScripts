@@ -1,0 +1,1 @@
+Picks random colors and generates 10 Mira Orbital Fractals as pngs.
